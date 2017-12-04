@@ -1,6 +1,6 @@
 # Full Calendar lightning
 
-[![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://localhost:8443/)
+[![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://deploy-to-sfdx.com/)
 
 Sample [Salesforce Lightning Components](https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/) built with the [FullCalendar](https://fullcalendar.io/) jQuery library.
 
